@@ -2,9 +2,12 @@
 layout: page
 title: Andere Test Tools
 permalink: /testing/other-test-tools/
-parent: Testen
-nav_order: 2
+parent: Testen und Testbarkeit bei der ABAP-Entwicklung
+prev_page_link: /testing/recommended-tools/
+prev_page_title: Empfehlungen für Testwerkzeuge
+nav_order: 4
 ---
+
 
 {: .no_toc}
 # Andere Test Tools

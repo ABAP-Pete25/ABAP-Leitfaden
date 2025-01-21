@@ -1,9 +1,13 @@
 ---
 layout: page
-title: ABAP Unit Framework
+title: Das ABAP Unit Framework
 permalink: /testing/abap_unit/
-parent: Testen
-nav_order: 1
+parent: Testen und Testbarkeit bei der ABAP-Entwicklung
+prev_page_link: /testing/testorganization
+prev_page_title: Rahmenbedingungen und die Rolle der Organisation beim Thema ABAP-UNIT-Tests
+next_page_link: /testing/abap_unit/
+next_page_title: /testing/recommended-tools/
+nav_order: 2
 ---
 
 {: .no_toc}

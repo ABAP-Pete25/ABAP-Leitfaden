@@ -2,9 +2,15 @@
 layout: page
 title: Empfehlungen für Testwerkzeuge
 permalink: /testing/recommended-tools/
-parent: Testen
+parent: Testen und Testbarkeit bei der ABAP-Entwicklung
+prev_page_link: /testing/index
+prev_page_title: Testen und Testbarkeit bei der ABAP-Entwicklung
+next_page_link: /testing/other-test-tools/
+next_page_title: Andere Test Tools
 nav_order: 3
 ---
+
+
 
 {: .no_toc}
 # Empfehlungen für Testwerkzeuge
