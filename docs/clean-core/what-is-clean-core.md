@@ -270,6 +270,9 @@ Alle Regelen von Clean ABAP heute sind und sollten immer begründet und erläute
 
 Clean ABAP kann generell auf jede Sprachvesion von ABAP angewendet werden von R2 bis hin zu ABAP Cloud. 
 
+<<  Vergleich clean Core | Clean ABAP | ABAP Cloud >> 
+
+
 ### Clean ABAP & Entwicklungsrichtlinien
 Die auf das Untrenehmen angepasste Form von Clean ABAP sollte ein ergänzendes Dokument der gültigen Entwicklungsrichtlinien sein, so dass es überall Anwendung findet. 
 Es ist hilfreich die Anwendung der Regeln mit automatischen Tool wie Code Pal for ABAP (https://github.com/SAP/code-pal-for-abap) zu überprüfen und sicherzustellen. 
