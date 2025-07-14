@@ -38,10 +38,22 @@ Es gibt zahlreiche Dokumentationen und mittlerweile sind auch zahlreiche Schulun
 
 ## Aufbau und Zielgruppe
 
-Wie das Dokument aufgebaut ist und wie Sie es effektiv nutzen können, erfahren Sie in diesem Abschnitt. Das Dokument unterteilt sich in spezifische Kapitel und Abschnitte:  
+Wie das Dokument aufgebaut ist und wie Sie diesen Leitfaden effektiv nutzen können, erfahren Sie in diesem Abschnitt.  
+Bevor es in die technischen Tiefen von ABAP selbst geht, erhalten Sie Erläuterungen und Empfehlungen bezüglich der **Entwicklungsorganisation**. Dies schafft den Rahmen für die erfolgreiche Transformation zu moderner Anwendungsentwicklung.  
+Anschließend erhalten Sie einen Überblick über die Konzepte von **"Clean Core"** und Empfehlungen zur Vorgehensweise. Damit haben Sie bereits einen guten Überblick über die Rahmenbedingungen. Die technisch orientierten Themen  
 
-* Am Anfang des Kapitels finden Sie einleitende Informationen und einen Überblick über das Thema. Dieser Teil ist vor allem für Manager und Entscheider im Unternehmen gedacht, die sich einen Überblick über den Bereich machen wollen.
-* Je Tiefer Sie in das Kapitel einsteigen, desto detailiertere Informationen erhalten Sie. Diese Abschnitte sind vor allem für Architekten und Entwickler geeignet, die einen tieferen Einblick in das Thema erhalten wollen.
+* **Core Data Services**
+* **ABAP**
+* **ABAP Unit Test**  
+* **User Interfaces und**
+* **Formulare**
+
+geben Ihnen Erläuterungen, Empfehlungen und Details zu den technischen Aspekten und Technologien moderner SAP Entwicklung.
+Am Anfang dieser Kapitel finden Sie einleitende Informationen und einen Überblick über das Thema. Dieser Teil ist vor allem für Manager und Entscheider im Unternehmen gedacht, die sich einen Überblick über den Bereich machen wollen.  
+Je Tiefer Sie in das Kapitel einsteigen, desto detailiertere Informationen erhalten Sie zu den Themen. Diese Abschnitte sind vor allem für Architekten und Entwickler geeignet, die einen tieferen Einblick in das Thema erhalten wollen.  
+
+Im weiteren Teil finden Sie dann Abschnitte zu den Themen **Open Source** mit wichtigen Ausführungen warum Open Source auch im ABAP-Bereich wichtig ist, Ausführungen zu ALM, bei denen Sie auch Erläuterungen zu modernen Methoden der **Versionsverwaltung** finden. Abschließend finden Sie noch Ausführungen zu den Themen **Sicherheit** und **Integration**, die bei Entwicklung von SAP Software heute wichtiger denn je sind.
+Und natürlich dürfen auch Hinweise zur künstlichen Intelligenz hier nicht fehlen.
 
 ## Positionierung
 
